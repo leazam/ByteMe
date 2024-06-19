@@ -1,2 +1,2 @@
-Some fun and simple apps and games from when I started to practice C++.
+Some fun and simple apps/games from when I started to practice C++.
 Hope you enjoy !
